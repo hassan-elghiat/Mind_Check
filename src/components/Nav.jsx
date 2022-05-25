@@ -5,7 +5,7 @@ const Nav = () => {
         <div className="w-2/10 inline-block">
           <img
             className="w-8 h-8 lg:w-16 lg:h-16"
-            src="/assets/computer-science.png"
+            src="https://github.com/hassan-elghiat/Mind_Check/raw/gh-pages/assets/computer-science.png"
             alt="Computer science"
           />
         </div>
